@@ -40,4 +40,14 @@ Para minha surpresa, a busca revelou uma série de links relacionados ao nome "O
 
 ![image](https://github.com/user-attachments/assets/8649e944-c593-4f83-bbb6-98920470b708)
 
+Retomando as perguntas, a primeira era: "Qual é o avatar deste usuário?". Para encontrar a resposta, acessei o perfil do usuário no Twitter (atualmente chamado de X) e identifiquei que a foto de perfil exibida era a imagem de um gato.
+
+![image](https://github.com/user-attachments/assets/8faf7ee0-1ca6-4b6f-b0ce-4eb781ed1e88)
+
+Assim, a resposta para a primeira pergunta é claramente: "CAT". 
+
+![image](https://github.com/user-attachments/assets/849680e6-e16c-473e-be6e-63654a01d0cd)
+
+
+
 
