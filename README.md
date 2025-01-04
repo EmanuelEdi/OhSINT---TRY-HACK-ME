@@ -58,6 +58,12 @@ Ao acessar o GitHub de OWoodflint, além de encontrar as respostas para a quarta
 
 ![image](https://github.com/user-attachments/assets/cffdf894-6be0-4b97-bb5a-1c47a0f69f50)
 
+Ao explorar o site pessoal de OWoodflint, desenvolvido em WordPress, descobri que ele mencionou estar de férias e que viajou para Nova York. Com essa informação, foi possível responder à sexta pergunta: "Para onde ele foi de férias?". Portanto, a resposta para a sexta pergunta é: "New York".
 
+![image](https://github.com/user-attachments/assets/28024ea9-b57a-4a32-a2f3-72b8ba03ade2)
+
+Confesso que a última pergunta, relacionada à senha do usuário, foi a mais desafiadora. Passei cerca de 10 minutos analisando o código-fonte da página principal do site WordPress de OWoodflint até finalmente encontrar a resposta. Na linha 295, havia um texto que se destacava como uma possível senha: pennYDr0pper.!. Portanto, a resposta para a última pergunta é: "pennYDr0pper.!".
+
+![image](https://github.com/user-attachments/assets/355f505e-bf12-4300-9da2-f4e9366a516d)
 
 
