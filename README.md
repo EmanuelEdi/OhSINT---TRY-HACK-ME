@@ -19,5 +19,8 @@ Aqui estão algumas das ferramentas que utilizei para completar o desafio:
 🖥️ Wigle.net: Análise detalhada de dados WIFI em todo o Mundo.
 
 O primeiro desafio consistia em identificar qual era o avatar do usuário. Confesso que, nesse momento, fiquei um pouco apreensivo. No entanto, a plataforma disponibilizou uma imagem: a icônica paisagem do Windows XP. Diante disso, decidi pesquisar no Google sobre como analisar imagens e me deparei com a ferramenta ExifTool.
+
 O ExifTool é uma poderosa ferramenta de linha de comando que permite extrair, editar e gerenciar metadados de arquivos multimídia, como imagens, vídeos e áudios. Com ela, é possível obter informações detalhadas sobre o arquivo, como data de criação, dispositivo utilizado, localização e muito mais. Além disso, a ferramenta suporta uma ampla variedade de formatos de arquivo, incluindo JPEG, PNG e RAW.
+
 Para instalar o ExifTool no Ubuntu, o processo é bastante simples. Basta seguir os comandos abaixo:
+![image](https://github.com/user-attachments/assets/c231e74e-7f6c-407a-afbf-32bdb5dd3da9)
