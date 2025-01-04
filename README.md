@@ -40,13 +40,23 @@ Para minha surpresa, a busca revelou uma série de links relacionados ao nome "O
 
 ![image](https://github.com/user-attachments/assets/8649e944-c593-4f83-bbb6-98920470b708)
 
-Retomando as perguntas, a primeira era: "Qual é o avatar deste usuário?". Para encontrar a resposta, acessei o perfil do usuário no Twitter (atualmente chamado de X) e identifiquei que a foto de perfil exibida era a imagem de um gato.
+Retomando as perguntas, a primeira era: "Qual é o avatar deste usuário?". Para encontrar a resposta, acessei o perfil do usuário no Twitter (atualmente chamado de X) e identifiquei que a foto de perfil exibida era a imagem de um gato. Assim, a resposta para a primeira pergunta é claramente: "CAT".
 
 ![image](https://github.com/user-attachments/assets/8faf7ee0-1ca6-4b6f-b0ce-4eb781ed1e88)
 
-Assim, a resposta para a primeira pergunta é claramente: "CAT". 
+A segunda pergunta envolvia descobrir em qual cidade o autor estava localizado. Durante a análise, observei que ele havia feito a seguinte postagem: 
+"Da minha casa eu consigo Wi-Fi grátis ;D
+BSSID: B4:5D:50:AA:86:41 - Enlouqueça!" 
+Com base nisso, realizei uma pesquisa detalhada e descobri um site chamado Wigle.net, que permite localizar redes Wi-Fi utilizando o BSSID (identificador único do ponto de acesso). Ao inserir o BSSID fornecido na postagem, o site retornou a localização da rede, indicando que o usuário estava em Londres. Portanto, a resposta para a segunda pergunta era claramente: "London".
 
-![image](https://github.com/user-attachments/assets/849680e6-e16c-473e-be6e-63654a01d0cd)
+Com base na pesquisa anterior no site Wigle.net, foi possível responder à terceira pergunta: "Qual é o SSID do WAP ao qual ele se conectou?". Ao analisar os resultados da busca pelo BSSID fornecido, identifiquei o nome da rede Wi-Fi (SSID) associada. O site retornou o seguinte SSID: "UnileverWiFi". Portanto, a resposta para a terceira pergunta é: "UnileverWiFi".
+
+Ao acessar o GitHub de OWoodflint, além de encontrar as respostas para a quarta e quinta perguntas, descobri que ele possui um site pessoal desenvolvido em WordPress. No repositório disponível no GitHub, encontrei o seguinte e-mail: OWoodflint@gmail.com. A quinta pergunta questionava onde esse e-mail foi encontrado. A resposta é clara: no GitHub, mais especificamente no arquivo README.md do repositório people_finder. Portanto, as respostas são:
+
+    Quarta pergunta: O e-mail do autor é OWoodflint@gmail.com.
+    Quinta pergunta: Esse e-mail foi encontrado no GitHub.
+
+![image](https://github.com/user-attachments/assets/cffdf894-6be0-4b97-bb5a-1c47a0f69f50)
 
 
 
