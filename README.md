@@ -4,6 +4,7 @@ Bem-vindo ao meu repositório!
 
 📜 Sobre o Desafio
 Acabei de concluir um desafio no TryHackMe, uma plataforma de aprendizado prático em cibersegurança. Este repositório é dedicado a compartilhar minha experiência, aprendizados e habilidades adquiridas durante o desafio.
+
 ![image](https://github.com/user-attachments/assets/1e68cb52-744f-41f1-a8f1-a3b4282124a9)
 
 🧑‍💻 O que foi abordado?
@@ -30,4 +31,13 @@ Após a instalação, você pode começar a utilizá-lo para analisar imagens. P
 Visualizar todos os metadados de uma imagem:
 
 ![image](https://github.com/user-attachments/assets/f7863f70-92f6-4855-b9d1-0bd13184059d)
+
+Ao analisar a imagem, deparei-me com diversas informações interessantes. Inicialmente, não consegui identificar o autor imediatamente, mas, ao observar com mais atenção os metadados, notei a presença de um campo de Copyright com o nome "OWoodflint". Intrigado, decidi pesquisar esse nome no Google.
+
+![image](https://github.com/user-attachments/assets/80b147ac-b92d-4186-9616-be9c946ccdde)
+
+Para minha surpresa, a busca revelou uma série de links relacionados ao nome "OWoodflint". Entre eles, encontrei perfis em redes sociais, como Twitter e GitHub, além de um blog pessoal. Essas fontes continham informações valiosas que ajudaram na investigação e forneceram pistas importantes sobre o autor da imagem.
+
+![image](https://github.com/user-attachments/assets/8649e944-c593-4f83-bbb6-98920470b708)
+
 
